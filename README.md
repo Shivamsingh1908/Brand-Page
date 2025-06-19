@@ -1,12 +1,51 @@
-# React + Vite
+# 🚀 Project 1 - Brand Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Brand Landing Page** built using **React.js**, inspired by a clean and modern Figma design. This project focuses on developing reusable components, responsive layouts, and styling with Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Preview
 
-## Expanding the ESLint configuration
+![Brand Page Preview](https://user-images.githubusercontent.com/your-id/your-image-name.png)
+> *(Replace this link with your actual uploaded GitHub image URL)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Features
+
+- Responsive landing page layout
+- Reusable React components
+- Modern UI design inspired by Figma
+- Clean folder structure
+- Styled using Tailwind CSS (or mention your CSS framework)
+
+---
+
+## 📦 Tech Stack
+
+- **React.js**
+- **HTML5**
+- **CSS3** / **Tailwind CSS**
+- **JavaScript (ES6)**
+
+---
+
+## 🧠 What I Learned
+
+- Creating and structuring a React project from scratch
+- Component-based architecture
+- Working with JSX and props
+- Styling with utility-first CSS (if Tailwind is used)
+- Hosting and pushing code with Git and GitHub
+
+---
+
+## 🎨 Design Source
+
+[Figma Design Link 🔗](https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=0-1&t=orp3GQEAXhmtQcgG-0)
+
+---
+
+## 📁 Folder Structure
+
+
