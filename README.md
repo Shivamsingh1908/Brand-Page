@@ -6,8 +6,9 @@ A responsive **Brand Landing Page** built using **React.js**, inspired by a clea
 
 ## 🔥 Preview
 
-![Brand Page Preview](https://user-images.githubusercontent.com/your-id/your-image-name.png)
-> *(Replace this link with your actual uploaded GitHub image URL)*
+![image](https://github.com/user-attachments/assets/18820fda-18e5-486b-b012-ba95baf1f29e)
+
+
 
 ---
 
